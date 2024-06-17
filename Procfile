@@ -1,1 +1,1 @@
-web: cd hellograce && npx serve -s build
+web: npm run serve
