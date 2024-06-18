@@ -15,7 +15,7 @@
   
   .overlay {
     position: absolute;
-    top: 20%;
+    top: 10%;
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
     text-align: center;
