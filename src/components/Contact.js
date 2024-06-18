@@ -7,10 +7,10 @@ const Contact = () => {
     <div className="contact-section">
       <h2>Contact Us</h2>
       <div className="contact-info">
-        <div><FaPhone /> +1 234 567 890</div>
-        <div><FaEnvelope /> info@hellograceyoga.com</div>
-        <div><FaInstagram /> @hellograceyoga</div>
-        <div><FaFacebook /> /hellograceyoga</div>
+        <div><FaPhone /> +1 412 862 5007</div>
+        <div><FaEnvelope /> helllograceyoga@gmail.com</div>
+        <div><FaInstagram /> @hello.grace.yoga</div>
+        <div><FaFacebook /> @hellograceyoga</div>
       </div>
     </div>
   );

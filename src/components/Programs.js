@@ -1,13 +1,19 @@
 import React from 'react';
 import './Programs.css';
+import yoga1 from '../assets/1.UpaYoga.jpeg';
+import yoga2 from '../assets/2.BhutaShuddhi.jpeg';
+import yoga3 from '../assets/3.Angarmadana.jpg';
+import yoga4 from '../assets/4.SuriyaKriya.jpg';
+import yoga5 from '../assets/5.Yogasanas.jpg';
+import yoga6 from '../assets/6.Children.jpg';
 
 const programs = [
-  { id: 1, title: 'Beginner Yoga', description: 'Start your journey', image: '/assets/yoga1.jpg' },
-  { id: 2, title: 'Intermediate Yoga', description: 'Take it to the next level', image: '/assets/yoga2.jpg' },
-  { id: 3, title: 'Advanced Yoga', description: 'Master the art', image: '/assets/yoga3.jpg' },
-  { id: 4, title: 'Yoga for Stress Relief', description: 'Relax and unwind', image: '/assets/yoga4.jpg' },
-  { id: 5, title: 'Yoga for Flexibility', description: 'Enhance your flexibility', image: '/assets/yoga5.jpg' },
-  { id: 6, title: 'Yoga for Strength', description: 'Build strength and endurance', image: '/assets/yoga6.jpg' },
+  { id: 1, title: 'Upa Yoga', description: 'Gentle Yoga, Start Your Journey', image: yoga1 },
+  { id: 2, title: 'Bhuta Shuddhi', description: 'Cleansing Yoga, Purification of the Elements', image: yoga2 },
+  { id: 3, title: 'Angarmadana', description: 'Fitness Yoga, Complete Mastery of the Limbs', image: yoga3 },
+  { id: 4, title: 'Suriya Kriya', description: 'Meditation in Motion, an Acient and Potent Yogic Practice', image: yoga4 },
+  { id: 5, title: 'Yogasanas', description: 'Stillness Through Postures, Reach Higher Level of Conciousness', image: yoga5 },
+  { id: 6, title: 'Yoga for Children', description: 'Grow with Yoga: Fun, Love, Joy', image: yoga6 },
 ];
 
 const Programs = () => {
