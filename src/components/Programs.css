@@ -6,8 +6,20 @@
 
 .program-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Change this line */
+  grid-template-columns: repeat(1, 1fr);
   gap: 20px;
+}
+
+@media screen and (min-width: 600px) {
+  .program-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .program-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .program-card {
