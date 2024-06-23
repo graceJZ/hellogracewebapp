@@ -1,1 +1,2 @@
-web: npm run serve
+web: gunicorn backend.backend.wsgi --log-file -
+release: python backend/manage.py migrate --no-input

@@ -10,8 +10,8 @@ import yoga6 from '../assets/6.Children.jpg';
 const programs = [
   { id: 1, title: 'Upa Yoga', description: 'Gentle Yoga, Start Your Journey', image: yoga1 },
   { id: 2, title: 'Bhuta Shuddhi', description: 'Cleansing Yoga, Purification of the Elements', image: yoga2 },
-  { id: 3, title: 'Angarmadana', description: 'Fitness Yoga, Complete Mastery of the Limbs', image: yoga3 },
-  { id: 4, title: 'Suriya Kriya', description: 'Meditation in Motion, an Acient and Potent Yogic Practice', image: yoga4 },
+  { id: 3, title: 'Angamardana', description: 'Fitness Yoga, Complete Mastery of the Limbs', image: yoga3 },
+  { id: 4, title: 'Suriya Kriya', description: 'Meditation in Motion, an Ancient and Potent Yogic Practice', image: yoga4 },
   { id: 5, title: 'Yogasanas', description: 'Stillness Through Postures, Reach Higher Level of Conciousness', image: yoga5 },
   { id: 6, title: 'Yoga for Children', description: 'Grow with Yoga: Fun, Love, Joy', image: yoga6 },
 ];
