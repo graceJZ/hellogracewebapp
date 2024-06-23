@@ -21,7 +21,7 @@
     "serve": "serve -s build",
     "start": "concurrently \"npm run start-react\" \"npm run start-django\"",
     "start-react": "react-scripts start",
-    "start-django": "python backend/manage.py runserver 0.0.0.0:8000",
+    "start-django": "python manage.py runserver 0.0.0.0:8000",
     "heroku-postbuild": "npm run build"
   },
 
