@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eca5bb4a.css",
+    "main.js": "/static/js/main.527a2acc.js",
+    "static/js/317.aedf3a30.chunk.js": "/static/js/317.aedf3a30.chunk.js",
+    "static/media/background.jpg": "/static/media/background.cbe76ac621e273595555.jpg",
+    "static/media/3.Angarmadana.jpg": "/static/media/3.Angarmadana.24b98c9b10b95065becd.jpg",
+    "static/media/5.Yogasanas.jpg": "/static/media/5.Yogasanas.df6bd1002b60c5b600a6.jpg",
+    "static/media/4.SuriyaKriya.jpg": "/static/media/4.SuriyaKriya.509c7f677acb68764822.jpg",
+    "static/media/6.Children.jpg": "/static/media/6.Children.b91c94958c0428060fb3.jpg",
+    "static/media/1.UpaYoga.jpeg": "/static/media/1.UpaYoga.44b98bd56c6eee3aa7e7.jpeg",
+    "static/media/2.BhutaShuddhi.jpeg": "/static/media/2.BhutaShuddhi.3af9804ab093b49eaa32.jpeg",
+    "index.html": "/index.html",
+    "main.eca5bb4a.css.map": "/static/css/main.eca5bb4a.css.map",
+    "main.527a2acc.js.map": "/static/js/main.527a2acc.js.map",
+    "317.aedf3a30.chunk.js.map": "/static/js/317.aedf3a30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca5bb4a.css",
+    "static/js/main.527a2acc.js"
+  ]
+}

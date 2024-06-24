@@ -40,7 +40,7 @@ class Migration(migrations.Migration):
                 ('program_fee', models.DecimalField(decimal_places=2, max_digits=10)),
                 ('phone', models.CharField(max_length=20)),
                 ('email', models.EmailField(max_length=254)),
-                ('module', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='yoga.module')),
+                ('module', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='api.module')),
             ],
         ),
         migrations.CreateModel(
@@ -48,7 +48,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('registration_id', models.CharField(max_length=100, primary_key=True, serialize=False)),
                 ('jotform_data', models.JSONField()),
-                ('program', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='yoga.program')),
+                ('program', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='api.program')),
             ],
         ),
     ]
